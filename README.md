@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT & Cybersecurity Project Projects:</h2>
 
 - <b>Systems Admistration Practice</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
 
 <h2>👨‍💻 Certifications:</h2>
 
